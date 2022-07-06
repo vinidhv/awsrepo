@@ -1,7 +1,7 @@
 Parameters:
 
   VpcCIDR: 
-    Description: Please enter the casc acasIP range (CIDR notation) for this VPC
+    Description: Please enter the  range (CIDR notation) for this VPC
     Type: String
     Default: 10.192.0.0/16
 
